@@ -1,4 +1,0 @@
-# hello
-git clone
-cd hello
-mkdir build
